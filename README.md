@@ -1,19 +1,61 @@
 # RetailX Enterprise Data Platform
 
-Enterprise Azure Data Engineering project built as part of the Senior Azure Data Engineer Residency.
+## Project Overview
 
-## Goal
+RetailX Enterprise Data Platform is a production-style Azure Data Engineering project built to simulate a real enterprise environment.
 
-Build a production-grade Azure Data Platform from scratch using
+The objective is to build an end-to-end modern data platform from raw source ingestion to business reporting using Azure technologies and PySpark.
 
+---
+
+## Technology Stack
+
+- Python
 - PySpark
-- Azure Data Factory
+- Azure Data Lake Storage Gen2
 - Azure Databricks
-- ADLS Gen2
+- Azure Data Factory
+- Azure Synapse Analytics
 - Azure DevOps
+- Git
 - Power BI
 
-The project follows Medallion Architecture.
+---
 
-Status:
-Sprint 1 - In Progress
+## Architecture
+
+Source Systems
+
+↓
+
+Bronze Layer
+
+↓
+
+Silver Layer
+
+↓
+
+Gold Layer
+
+↓
+
+Business Reporting
+
+---
+
+## Repository Structure
+
+docs/
+data/
+pyspark/
+sql/
+config/
+tests/
+deployment/
+
+---
+
+## Project Status
+
+Sprint 1 - Foundation & Project Setup
