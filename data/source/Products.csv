@@ -1,0 +1,6 @@
+ProductID,ProductName,Category,Brand,StandardCost,ListPrice,Color
+P101,Laptop,Electronics,Dell,45000,52000,Black
+P102,Mouse,Electronics,Logitech,500,850,Black
+P103,Keyboard,Electronics,Logitech,1200,1800,White
+P104,Headphones,Electronics,Sony,2500,4200,Black
+P105,Webcam,Electronics,HP,1800,2900,Black
