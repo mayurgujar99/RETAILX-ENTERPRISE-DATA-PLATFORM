@@ -59,3 +59,20 @@ deployment/
 ## Project Status
 
 Sprint 1 - Foundation & Project Setup
+
+Bronze Layer
+- Raw ingestion
+- Schema validation
+- Audit columns
+
+Silver Layer
+- Business validations
+- Data cleansing
+- Reject handling
+- Delta tables
+
+## Current Status
+
+- ✅ Bronze Layer Complete
+- ✅ Silver Layer Complete
+- ⏳ Gold Layer (Upcoming)
